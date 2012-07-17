@@ -1,4 +1,5 @@
 edited by geo
+EDITED BY RONI
 
 
 This contains generalized puppet script for the installation and configuration of nagios all Linux Operating Systems
